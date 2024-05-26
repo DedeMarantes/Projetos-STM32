@@ -1,0 +1,2 @@
+../Core/Src/dth11.c:8:6:Dht11_Start	8	static
+../Core/Src/dth11.c:15:6:Dht11_Read	24	static
